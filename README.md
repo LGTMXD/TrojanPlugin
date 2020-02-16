@@ -15,3 +15,5 @@ Select the `Plugins` view of Win2Socks, click the `Install Plugins...` button, s
 The plugin arguments consist of the `domain` of your server and the `password` used for verification, separated by `:`.
 
 插件参数由你的服务器的 `域名` 和用于验证的 `密码` 组成，中间用 `:` 分隔。
+
+![](images/arguments.png)
