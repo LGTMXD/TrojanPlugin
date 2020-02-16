@@ -1,7 +1,7 @@
 # TrojanPlugin
-A Win2Socks Plugin to support [Trojan](https://trojan-gfw.github.io/trojan/) protocol.
+A [Win2Socks](https://win2socks.com) Plugin to support [Trojan](https://trojan-gfw.github.io/trojan/) protocol.
 
-一个 Win2Socks 插件以支持 [Trojan](https://trojan-gfw.github.io/trojan/) 协议。
+一个 [Win2Socks](https://win2socks.com) 插件以支持 [Trojan](https://trojan-gfw.github.io/trojan/) 协议。
 
 # Download
 https://win2socks.com/downloads/TrojanPlugin.zip
